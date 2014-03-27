@@ -68,7 +68,7 @@
     CGContextClearRect(context, CGRectMake(0, 0, size.width, size.height));
     CGColorSpaceRelease(colorSpace);
     
-    return context;    
+    return context;
 }
 
 + (CGContextRef)newARGBBitmapContextWithImage:(CGImageRef)image {

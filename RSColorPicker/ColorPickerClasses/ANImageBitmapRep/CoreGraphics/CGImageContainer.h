@@ -16,6 +16,7 @@
 #elif TARGET_OS_MAC
 #import <Quartz/Quartz.h>
 #endif
+@import CoreGraphics;
 
 
 @interface CGImageContainer : NSObject {

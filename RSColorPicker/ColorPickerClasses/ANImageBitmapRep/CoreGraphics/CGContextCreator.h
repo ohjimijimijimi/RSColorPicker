@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+@import CoreGraphics;
 
 /**
  * This class has several static methods for creating bitmap contexts.

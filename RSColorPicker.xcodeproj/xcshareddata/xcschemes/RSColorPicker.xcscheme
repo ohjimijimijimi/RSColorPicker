@@ -38,6 +38,16 @@
                ReferencedContainer = "container:RSColorPicker.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FBEF06DA18E4D60D00CD2C0A"
+               BuildableName = "RSColorPickerLibTests.xctest"
+               BlueprintName = "RSColorPickerLibTests"
+               ReferencedContainer = "container:RSColorPicker.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
